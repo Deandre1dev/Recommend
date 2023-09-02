@@ -9,7 +9,7 @@ Command 3
 python -m spacy download en_core_web_md
 
 Command 4
-docker build -t sementic ./
+docker build -t recommend ./
 
 Command 5
-docker run sementic
+docker run recommend
