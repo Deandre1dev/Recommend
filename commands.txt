@@ -1,2 +1,15 @@
+Command 1
+pip3 install spacy
+
+Command 2
+python
+import spacy
+
+Command 3
+python -m spacy download en_core_web_md
+
+Command 4
 docker build -t sementic ./
+
+Command 5
 docker run sementic
